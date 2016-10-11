@@ -1,7 +1,7 @@
 # testdemo
 Server-less & domain-less websites updatable via torrents and bitcoin blockchain.
 
-[live demo](https://elendirx.github.io/web2web)
+[live demo](https://hzpalacios.github.io/testdemo)
 
 
 ### Why
